@@ -58,10 +58,10 @@ The report has two pages with navigation buttons and shared slicers for Doctor, 
 ## Dashboard Preview
 
 ### Overview
-![Overview Page](Project Files/overview_page.png)
+(Project Files/overview_page.png)
 
 ### Revenue Information
-![Revenue Page](Project Files/revenue_page.png)
+(Project Files/revenue_page.png)
 
 ## Tools Used
 
